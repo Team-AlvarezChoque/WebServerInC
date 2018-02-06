@@ -5,6 +5,7 @@ Project part of Principles of Operating Systems (IC6600) course. That has the ai
 ## Developers
 
 Adrián Álvarez Calderón [@adalvarez](https://github.com/adalvarez)
+
 Michael Choque Núñez [@Feymus](https://github.com/Feymus)
 
 ---
