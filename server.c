@@ -438,7 +438,7 @@ int main(int argc, char *argv[])
 			printf("Scheme: Pre-thread\n");
 			pre_thread = 1;
 			scheme = 3;
-			printf("Número de threads por instanciar: ");
+			printf("Number of threads to create: ");
 			fgets(nThreads, sizeof(nThreads), stdin);
 			sscanf(nThreads, "%d", &nTH);
 		}
